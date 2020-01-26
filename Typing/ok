@@ -1,0 +1,42 @@
+[33mcommit 6286a98dcebfdca7d6166c01821e6770ff499cc8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Joseph Bennett <viralze@live.com>
+Date:   Sun Jan 26 12:05:47 2020 -0800
+
+    organization
+
+[33mcommit 65371ec4621edce139e55772c91fcb1e46b35690[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Joseph Bennett <viralze@live.com>
+Date:   Sun Jan 26 11:10:28 2020 -0800
+
+    Filling out skeleton
+
+[33mcommit 3de65835ab21229b2fa2780123a0fdc9fcb81434[m
+Author: Joseph Bennett <viralze@live.com>
+Date:   Sun Jan 26 10:26:07 2020 -0800
+
+    Render
+
+[33mcommit 93d2ac6e65124dae63e8965cc4b96dafe36a7b0d[m
+Merge: f712110 6b83dde
+Author: Joseph Bennett <viralze@live.com>
+Date:   Fri Jan 24 09:17:40 2020 -0800
+
+    Merge branch 'master' of https://github.com/Viralz/Portfolio
+
+[33mcommit f712110e86c823061014f15f599627eac8b88deb[m
+Author: Joseph Bennett <viralze@live.com>
+Date:   Fri Jan 24 09:17:21 2020 -0800
+
+    First commit
+
+[33mcommit 6b83dde7798ee06b8bc11eff5858e82bd7d72828[m
+Author: Viralz <viralze@live.com>
+Date:   Fri Jan 24 09:16:03 2020 -0800
+
+    Update README.md
+
+[33mcommit 6256c652e650ba5e5b88f5ccfe0a82ff3f1ad65e[m
+Author: Joseph Bennett <viralze@live.com>
+Date:   Fri Jan 24 09:15:14 2020 -0800
+
+    first commit
