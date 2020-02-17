@@ -14,10 +14,6 @@
 html {
   scroll-behavior: smooth;
 }
-h1{
-  display:flex;
-  justify-content: center;
-}
 
 body {
   display:flex;
@@ -40,7 +36,16 @@ nav {
   top: 0;
   left: 0;
   right: 0;
-  align-items: left;
+  z-index: 10;
+}
+
+footer{
+  width: auto;
+  align-content: flex-end;
+  flex-flow: row wrap;
+
+
+
 }
 
 header img {
