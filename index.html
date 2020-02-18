@@ -3,16 +3,24 @@
 <head>
     <title>Joseph Bennett</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/normalize/6.0.0/normalize.css">
     <link rel="stylesheet" type="text/css" href="styles.css">
+    <script type="text/javascript" src="index.js"></script>
 </head>
 <body>
     <div class="topnav">
         <a class="active" href="#home">Home</a>
-        <a href="#projects">Projects</a>
-        <a href="#about">About Me</a>
-        <a href="#skills">Skills</a>
+        <div id="myLinks">
+            <a href="#projects">Projects</a>
+            <a href="#about">About Me</a>
+            <a href="#skills">Skills</a>
       </div>
+      <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
     <main>
         <section id="home">
             <h1> Joseph Bennett</h1>
