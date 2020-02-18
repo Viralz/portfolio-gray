@@ -25,6 +25,9 @@ main{
   flex-direction: column;
 }
 
+#home{
+  padding-top: 25px;
+}
 .topnav {
   background-color: #aaa;
   flex-direction: row;
