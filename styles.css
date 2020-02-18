@@ -48,9 +48,7 @@ main{
   font-size: 20px;
 }
 
-footer {
-  background-color: #aaa;
-}
+
 
 
 
@@ -60,11 +58,13 @@ footer {
   bottom: 0;
   width: 100%;
   text-align: center;
+  background-color: #aaa;
+  font-size: 10px;
 }
 
 
 .Technologies{
-  padding: 25%;
+  padding: 20%;
 }
 
 header img {
@@ -140,6 +140,7 @@ footer {
   width: 100%;
   text-align: center;
   background-color: #aaa;
+  font-size: 10px;
 }
 
 
