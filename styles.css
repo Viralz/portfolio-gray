@@ -168,13 +168,13 @@ section:nth-child(even) {
     box-sizing: border-box;
   }
 
-  body {
+  /* body {
     display:flex;
     font-family: "Open Sans", sans-serif; 
     font-size: 20px;
     color: #444;
     text-align: center;
-    line-height: 1.5;
+    line-height: 1.5; */
 
   }
   main{
