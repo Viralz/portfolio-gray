@@ -175,8 +175,6 @@ section:nth-child(even) {
     color: #444;
     text-align: center;
     line-height: 1.5; */
-
-  }
   main{
     display:flex;
     flex-direction: column;
@@ -228,5 +226,4 @@ section:nth-child(even) {
   section:nth-child(even) {
     background-color: #ddd;
   }
-
 }
