@@ -20,7 +20,7 @@ main{
 }
 
 #home{
-  padding-top: 25px;
+  padding-top: 51px;
 }
 .topnav {
   background-color: #aaa;
@@ -80,6 +80,7 @@ section:nth-child(even) {
 .topnav {
   overflow: hidden;
   background-color: #333;
+  position: block;
 }
 
 /* Hide the links inside the navigation menu (except for logo/home) */
@@ -121,9 +122,26 @@ section:nth-child(even) {
 
 
 @media screen and (min-width: 1024px) {
-}
+  body {
+    display:flex;
+    font-family: "Open Sans", sans-serif; 
+    font-size: 30px;
+    color: #444;
+    text-align: center;
+    line-height: 1.5;
+    margin: 0;
+    padding-bottom: 20px;
 
+  }
 
-@media screen and (min-width: 1401px) {
+  .topnav a {
+    font: 100;
+    color: white;
+    padding: 15px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    display: block;
+  }
+  
 
 }
